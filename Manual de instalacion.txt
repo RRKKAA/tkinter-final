@@ -1,0 +1,14 @@
+Primero que todo, esta aplicacion ya en base se encuentra pre-instalada, por lo que es punto de extraerlo en una carpeta apropiada en el sistema.
+
+Base de datos:
+	en base de que esta aplicacion utiliza MYSQL estos son los pasos.
+
+1.- asegurate de que tienes instalado XAMPP
+
+2.- una vez instalado el XAMPP, activa el mysql y apache
+
+3.- accediendo a la base de datos al presionar el admin de mysql, ahi accede a importar
+
+4.- el modelo de la base de datos de la aplicacion (jujuy.sql) se encuentra en el archivo comprimido, extraelo y importalo como base de datos.
+
+5.- una vez importado, ya estas listo para utilizar la aplicacion, eso si, tendras que repetir el proceso en otras computadoras.

@@ -1,0 +1,46 @@
+Manual de uso para aplicacion "Correos de Yujuy"
+
+1 Introduccion:
+
+Esta aplicacion, creada por solicitud para la compañia "Correos de Yujuy", es una sistema con el cual la compañia puede mantener y gestionar
+informacion de los trabajadores de la empresa, todo de manera sencilla, sea el jefe de esta, de RR.HH. o simplemente el empleado mas reciente.
+
+2 Como se usa:
+
+primero que todo, el usuario al ingresar, se presenta a una pagina donde este si tiene una cuenta ya creada, debe ingresar so nombre de usuario y su contraseña
+para poder ingresar a su pagina respectiva, eso si, para los de RR.HH. o la administracion, estos pueden acceder a una pagina exclusiva a ellos.
+
+pagina del trabajador: esta pagina es la cual el trabajador accede una vez que su cuenta ya le fue asignada su cuenta de trabajador por un miembro de RR.HH.
+pues no puede acceder a esta si no lo tiene, de esta pagina el puede acceder a los detalles de su cuenta de trabajador junto con sus contactos y cargas familiares.
+
+aqui ademas de ver su informacion, el usuario puede modificar datos personales de este, sus contactos y familiares, junto con agregar y eliminar de estos ultimos 2.
+
+
+pagina de administracion:
+
+esta pagina, solo accedible al los usuarios con roles en RR.HH. y administracion, es donde se maneja los datos de los trabajadores, pues aqui primero
+que todo es donde se puede ver en una lista, un resumen de todos los Trabajadores registrados en la empresa, aqui siendo algunos de las cosas que se
+pueden hacer:
+
+registro de usuarios: lo primero que se puede hacer es obviamente ingresar en un formulario los datos que corresponderan a un nuevo Trabajador,
+pues aqui se ingresan los datos del individuo sean como:
+
+El rut, Nombre y apellido, sexo, direccion, telefono
+
+los datos laborales: cargo, area y departamento donde se trabaja.
+
+(una cosa a considerar, es que el trabajador nuevo debe crearse un usuario nuevo con el rol de trabajador antes de que pueda ser registrado)
+
+de ahi una vez registrados, el refrescar la tabla estos apareceran.
+
+
+otras funciones:
+
+filtro: aqui se puede hacer que la tabla solo muestre los trabajadores que haya por filtros de sexo, cargo o departamento.
+
+al seleccionar un trabajador de la tabla se dan las opciones de crear para este un nuevo contacto o carga familiar, junto con las opciones de actualizar 
+los datos del trabajador o eliminar el trabajador, el cual tambien eliminara el usuario y cada contacto y familiar asociado a este.
+
+Contactos:
+
+si tienes alguna otras dudas sobre esta aplicacion, contacta con CorreosdelYujuy@gmail.com

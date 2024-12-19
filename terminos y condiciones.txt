@@ -1,0 +1,17 @@
+Terminos y condiciones de uso
+
+Al acceder o utilizar Correos del Yujuy, usted aceptara estos terminos y condiciones.
+pues es importante para que usted pueda usar nuestra aplicacion, si no estas de acuerdo, es mejor que no uses la aplicacion.
+
+ten en consideracion de que mientras mucho de la app se basa en open source, aun asi es propiedad de la empresa correos de Yujuy,
+por lo tanto es mejor que no intentes redistribuir esta aplicacion sin permiso de la empresa.
+
+recordar que no se pueden usar nuestro producto para fines dañinos y/o illegales, esta app no sera usada para revelar datos intimos de personas.
+
+recordar de que si algo sucede en el area de trabajo que involucre la aplicacion, no nos hacemos totalmente responsables ante posible brechas de seguridad.
+
+en si el proyecto es gratis, por lo que no esta permitido asignar un precio a esta aplicacion para venderlo a otros.
+
+etc.
+etc.
+etc...
